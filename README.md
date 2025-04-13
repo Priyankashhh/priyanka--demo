@@ -1,3 +1,3 @@
 # priyanka--demo
 my Git repo
-college -VESIT Mumbai
+college -VESIT (Bombay)
